@@ -1,0 +1,14 @@
+= terminal setup =
+
+1. Install Ripgrep
+2. Clone https://github.com/RakshithNM/.dotfiles
+3. Install tmux
+4. Install homebrew
+5. Install tmuxinator
+6. Map capslock to control in the keyboard
+
+
+- Install fzf and ripgrep. Check their project page for installation directions for your platform.
+- Add fzf path to vim's runtime path. For ex, if fzf is installed in the home folder called =.fzf=, add =set rtp+=~/.fzf= and restart vim. =:FZF= command should now be available from vim, typing which let's you fuzzy search files in the current directory
+- Install the https://github.com/junegunn/fzf.vim plugin which provides a few more wrapper functions that let's you fuzzy search many things like search terms, buffers, marks etc. You can now use =:Files= to fuzzy search files (same as =:FZF= command). Use =:Rg= to search for a term in the files under current directory.
+- Make sure autochdir is turned off and :cd or :lcd to project directory for a better project-wide search experience. (edited)

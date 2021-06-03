@@ -25,5 +25,5 @@
 17. Install lazygit (brew install lazygit)
 18. Install lolcat (brew install lolcat)
 19. Install Jetbrains mono font and make iterm2 use it
-20. Download coffe shop image from unsplash set it as the background with blending
+20. Download coffe shop image from unsplash set it as the background with blending on iterm2
 21. Install ripgrep (brew install ripgrep)

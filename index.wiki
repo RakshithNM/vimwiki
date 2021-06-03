@@ -1,3 +1,6 @@
 = knowledge base =
 
 *[[terminal setup]]
+*[[setup]]
+*[[stage]]
+*[[browser bugs]]

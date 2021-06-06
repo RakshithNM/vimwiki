@@ -1,8 +1,8 @@
 = knowledge base =
 
-*[[terminal setup]]
+*[[terminal_setup]]
 *[[setup]]
 *[[stage]]
-*[[browser bugs]]
-*[[practical vim notes]]
-*[[phone setup]]
+*[[browser_bugs]]
+*[[practical_vim_notes]]
+*[[phone_setup]]

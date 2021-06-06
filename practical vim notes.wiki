@@ -1,4 +1,4 @@
-= practical vim =
+= practical vim notes =
 
 * == [[The vim way]] ==
 * == Part I ==

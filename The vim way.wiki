@@ -1,0 +1,31 @@
+== The vim way ==
+  === Tip 1 - The dot command ===
+    * repeat the last change(.)
+  === Tip 2 - Don't repeat yourself ===
+    * append at the end(A)
+    * new line above(O), new line below(o)
+    * insert at the begininng of the line(I)
+  === Tip 3 - Take one step back, then three forward ===
+    * (s) - (cl) - change letter
+    * f{char} - find the next occurence of char,
+    * F{char} - find the previous occurence of char
+    * t{char} - find the previous character to occurence of char
+    * T {char} - find the next character to occurence of char backwards
+    * repeat the last motion(;), in the reverse direction(,)
+  === Tip 4 - Act, repeat, reverse ===
+    * (u) - undo last change
+    * /pattern<CR> - scan document for next pattern match
+      - n to repeat
+      - N to undo
+    * ?pattern<CR> - scan document for previous pattern match
+      - n to repeat
+      - N to undo
+    * :s/target/replacement - perform subsitution
+      - (&) to repeat
+      - u to undo
+  === Tip 5 - Find and replace by hand ===
+    * (*) - search for word under cursor
+    * (cw) - change word
+  === Tip 6 - Meet the dot formula ===
+    * one keystroke for motion and one keystorke for change is optimal
+

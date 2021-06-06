@@ -1,0 +1,21 @@
+== Normal [[mode]] ==
+  === tip 7 - pause with your brush off the page ===
+  === tip 8 - chunk you undos ===
+    * granularity of undo command can be controlled
+      - change in insert mode and back to normal mode constitutes as a single change
+  === tip 9 - compose repeatable changes ===
+    * be mindful of how we compose changes
+    * (aw) - text object - for entire word
+      - (daw) - deletes a word
+  === tip 10 - use counts to do simple arithmetic ===
+    * (<c-a>) - does addition on the number - works from anywhere in the line
+      - 10<c-a> 5 turns to 15
+    * (<c-x>) - does subtraction on the number - works from anywhere in the line
+      - 10<c-x> 50 turns to 40
+  === tip 11 - dont count if you can repeat ===
+  === tip 12 - combine and conquer ===
+    * opertor + motion = action
+      - d{motion} - (dl) - delete single character
+                  - (daw) - delete complete word
+                  - (dap) - delete entire paragraph
+    * (g~) - change case, (gu) - change to upper case, (gu) - change to lower case

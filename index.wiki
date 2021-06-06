@@ -4,3 +4,4 @@
 *[[setup]]
 *[[stage]]
 *[[browser bugs]]
+*[[practical vim notes]]

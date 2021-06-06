@@ -1,8 +1,8 @@
 = practical vim notes =
 
-* == [[the_vim_way]] ==
+* == [[the_vim_way.wiki]] ==
 * == Part I ==
-    * === [[normal_mode]] ===
-    * === [[insert_mode]] ===
-    * === [[visual_mode]] ===
+    * === [[normal_mode.wiki]] ===
+    * === [[insert_mode.wiki]] ===
+    * === [[visual_mode.wiki]] ===
 

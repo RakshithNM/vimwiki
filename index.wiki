@@ -5,3 +5,4 @@
 *[[stage]]
 *[[browser bugs]]
 *[[practical vim notes]]
+*[[phone setup]]

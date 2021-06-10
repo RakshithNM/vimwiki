@@ -1,3 +1,4 @@
-= stage =
+= STAGE =
 
 * Change the url in WebsocketKeepAlive class super call to the ip in network preferences like wss://192.168.x.x:8084/socket
+* Cmake cannot identify the comiler bug - https://stackoverflow.com/a/34000255

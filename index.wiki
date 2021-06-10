@@ -1,8 +1,7 @@
-= knowledge base =
+= KNOWLEDGE BASE =
 
-*[[terminal_setup.wiki]]
-*[[setup.wiki]]
-*[[stage.wiki]]
-*[[browser_bugs.wiki]]
-*[[practical_vim_notes.wiki]]
-*[[phone_setup.wiki]]
+- [[setup.wiki]]
+- [[stage.wiki]]
+- [[browser_bugs.wiki]]
+- [[practical_vim_notes.wiki]]
+- [[phone_setup.wiki]]

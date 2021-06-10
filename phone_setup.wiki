@@ -2,7 +2,7 @@
 
 1. Copy data from device to device
 2. Setup google authenticator on the new device
-    a. Go to all the services that are setup on google authenticator
-    b. Go to the 2FA page of the service
-    c. Set up google authenticator on the new device
+  - Go to all the services that are setup on google authenticator
+  - Go to the 2FA page of the service
+  - Set up google authenticator on the new device
 3. Check if all the important apps are working and not locked out

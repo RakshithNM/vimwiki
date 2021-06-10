@@ -1,3 +1,5 @@
+= SETUP =
+
 1. Install chrome canary
 2. Install iTerm2
 3. Install macvim
